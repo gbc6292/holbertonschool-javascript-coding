@@ -1,4 +1,5 @@
 #!/usr/bin/node
+/* eslint-disable */
 
 const request = require('request');
 const fs = require('fs');
